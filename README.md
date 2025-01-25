@@ -86,11 +86,3 @@ plt.legend()
 plt.show()
 ```
 
-## 7. Future Enhancements
-✅ Implement Transformer models (e.g., Attention-based methods).  
-✅ Use **Sentiment Analysis** from financial news as an additional feature.  
-✅ Improve **hyperparameter tuning** with Bayesian optimization.  
-
----
-### ✉️ Contact Information
-For any questions, please reach out via **[email@example.com](mailto:email@example.com)** or visit the **[GitHub Issues](https://github.com/yourusername/stock-price-prediction/issues)** page.
